@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-hamza313
+- 👋 Hi, I’m Muhammad Hamza (call me just Hamza)
 - 👀 I’m interested in Networking and Cybersecurity .
 - 🌱 I’m currently learning CCNA and CCNP.
 - 💞️ I’m looking to collaborate on learning about networking and cybersecurity.
